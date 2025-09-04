@@ -1,0 +1,10 @@
+package com.myexamples.datatypes;
+
+public class DataTypesExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
